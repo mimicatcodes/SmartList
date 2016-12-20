@@ -1,2 +1,2 @@
 # SmartList
-SmartList - To Do List for Building Good Habits
+SmartList - To Do List for Building Good Habits!
